@@ -17,7 +17,7 @@ import java.io.BufferedWriter;
  * Put your name(s), ID(s), and section here.
  *		Mr.Thanapon 	Jarukasetphon	5888057
  *		Mr.Papatsapong  Jiraroj-ungkun 	5888060
- *		Mr.Chatchanin 	Yimudom			5888234
+ *		Mr.Chatchanin 	Yimudom		5888234
  */
 public class PageRanker {
 	
